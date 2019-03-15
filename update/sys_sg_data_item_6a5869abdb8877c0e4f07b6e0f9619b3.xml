@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Search Incident </name>
+        <query_condition table="incident">numberLIKE{{Incident Number}}^active=true<item endquery="false" field="number" goto="false" newquery="false" operator="LIKE" or="false" value="{{Incident Number}}"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>c4266</sys_created_by>
+        <sys_created_on>2019-03-13 19:21:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6a5869abdb8877c0e4f07b6e0f9619b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Search Incident </sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_data_item_6a5869abdb8877c0e4f07b6e0f9619b3</sys_update_name>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-03-13 19:29:36</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+</record_update>

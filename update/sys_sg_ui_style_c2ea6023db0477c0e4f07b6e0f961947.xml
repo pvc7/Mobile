@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_task">state=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>state</field>
+        <name>CT State is Open</name>
+        <style>{"background_color":"#B5EBD4","font_color":"#1E4335"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>jruss</sys_created_by>
+        <sys_created_on>2019-03-13 14:55:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c2ea6023db0477c0e4f07b6e0f961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CT State is Open</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_ui_style_c2ea6023db0477c0e4f07b6e0f961947</sys_update_name>
+        <sys_updated_by>jruss</sys_updated_by>
+        <sys_updated_on>2019-03-13 14:55:37</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_ui_style>
+</record_update>

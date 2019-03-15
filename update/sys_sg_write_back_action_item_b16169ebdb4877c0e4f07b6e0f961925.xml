@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Change State (asset) In maintanance</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>jruss</sys_created_by>
+        <sys_created_on>2019-03-13 18:52:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b16169ebdb4877c0e4f07b6e0f961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change State (asset) In maintanance</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_b16169ebdb4877c0e4f07b6e0f961925</sys_update_name>
+        <sys_updated_by>jruss</sys_updated_by>
+        <sys_updated_on>2019-03-13 18:52:52</sys_updated_on>
+        <table>alm_asset</table>
+        <template>install_status=3^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

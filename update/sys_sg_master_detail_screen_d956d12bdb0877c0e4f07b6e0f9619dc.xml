@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="SC Tasks (RL)">de05dd67db0877c0e4f07b6e0f96192e</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>true</hidden>
+        <icon display_value="file-alt">8956d12bdb0877c0e4f07b6e0f9619aa</icon>
+        <name>Catalog Tasks for RITM</name>
+        <order>10</order>
+        <parent>6e6cdde3db4877c0e4f07b6e0f9619b1</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>jruss</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d956d12bdb0877c0e4f07b6e0f9619dc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Catalog Tasks for RITM</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_d956d12bdb0877c0e4f07b6e0f9619dc</sys_update_name>
+        <sys_updated_by>jruss</sys_updated_by>
+        <sys_updated_on>2019-03-13 18:29:54</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
