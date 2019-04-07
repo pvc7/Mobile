@@ -7,7 +7,7 @@
         <label>Reassign</label>
         <location>leading_swipe</location>
         <name>Reassign</name>
-        <order>2</order>
+        <order>4</order>
         <parent>158307aadb6cff00e4f07b6e0f961906</parent>
         <parent_table>sys_sg_master_item</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
@@ -15,7 +15,7 @@
         <sys_created_on>2019-04-05 14:22:43</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e76043b2db607f40be72fa6e0f961964</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Reassign</sys_name>
         <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
         <sys_policy/>
@@ -23,7 +23,7 @@
         <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
         <sys_update_name>sys_sg_button_instance_e76043b2db607f40be72fa6e0f961964</sys_update_name>
         <sys_updated_by>swnewton</sys_updated_by>
-        <sys_updated_on>2019-04-05 14:22:43</sys_updated_on>
+        <sys_updated_on>2019-04-07 15:31:20</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
 </record_update>

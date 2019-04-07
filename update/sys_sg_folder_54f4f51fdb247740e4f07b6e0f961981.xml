@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
     <sys_sg_folder action="INSERT_OR_UPDATE">
-        <application display_value="My Portal">54f4f51fdb247740e4f07b6e0f961980</application>
+        <application display_value="MySupportCenter">54f4f51fdb247740e4f07b6e0f961980</application>
         <name/>
         <order>1</order>
         <sys_class_name>sys_sg_folder</sys_class_name>
