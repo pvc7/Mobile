@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Return to Support Center (INC)">b6834cc3dbe47f40be72fa6e0f96191f</button>
+        <button display_value="Add Comments">e75b63f6db247f40be72fa6e0f961977</button>
         <description/>
         <field_name/>
-        <label>Return to Support Center</label>
-        <location>leading_swipe</location>
-        <name>Return to Support Center</name>
-        <order>9</order>
-        <parent>158307aadb6cff00e4f07b6e0f961906</parent>
-        <parent_table>sys_sg_master_item</parent_table>
+        <label>Add Comments</label>
+        <location>top</location>
+        <name>Add Comments</name>
+        <order>2</order>
+        <parent>93e4c1efdbacb740e4f07b6e0f96192c</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>swnewton</sys_created_by>
-        <sys_created_on>2019-04-05 19:19:27</sys_created_on>
+        <sys_created_on>2019-04-07 14:09:58</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c6540447dbe47f40be72fa6e0f9619cd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Return to Support Center</sys_name>
+        <sys_id>44b091afdbecb740e4f07b6e0f961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Comments</sys_name>
         <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
-        <sys_update_name>sys_sg_button_instance_c6540447dbe47f40be72fa6e0f9619cd</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_44b091afdbecb740e4f07b6e0f961909</sys_update_name>
         <sys_updated_by>swnewton</sys_updated_by>
-        <sys_updated_on>2019-04-07 15:31:20</sys_updated_on>
+        <sys_updated_on>2019-04-07 14:09:58</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
 </record_update>
