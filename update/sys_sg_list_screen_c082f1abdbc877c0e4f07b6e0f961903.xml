@@ -7,7 +7,7 @@
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
         <icon display_value="flag">3372b1abdbc877c0e4f07b6e0f9619b3</icon>
-        <item_view display_value="Unassigned by Group JSON TEST">b053b5ebdbc877c0e4f07b6e0f961902</item_view>
+        <item_view display_value="">b053b5ebdbc877c0e4f07b6e0f961902</item_view>
         <name>Unassigned INC by Group</name>
         <order>40</order>
         <parent>f126ec27dbc077c0e4f07b6e0f96196f</parent>

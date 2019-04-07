@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Close Complete(Requests)">2b62939bdb60b740e4f07b6e0f9619ac</button>
+        <item_parameter display_value="Additional Comments">ebcf4f53db60b740e4f07b6e0f9619bc</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>c4266</sys_created_by>
+        <sys_created_on>2019-04-07 05:02:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b4631f5fdb60b740e4f07b6e0f9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ebcf4f53db60b740e4f07b6e0f9619bc</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b4631f5fdb60b740e4f07b6e0f9619de</sys_update_name>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-04-07 05:02:42</sys_updated_on>
+        <ui_parameter display_value="Additional Comments">c2e29bdbdb60b740e4f07b6e0f961915</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

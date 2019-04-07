@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Catalog Tasks by Group">dfc2d0b2db683340e4f07b6e0f961982</data_item>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">ca77e4f6db6c3340e4f07b6e0f9619b0</icon>
+        <name>Activity Stream</name>
+        <order>20</order>
+        <parent>be3754fadb683340e4f07b6e0f961921</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>c4266</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4b3754fadb683340e4f07b6e0f961925</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_4b3754fadb683340e4f07b6e0f961925</sys_update_name>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-04-05 03:14:27</sys_updated_on>
+    </sys_sg_activity_stream_screen>
+</record_update>
