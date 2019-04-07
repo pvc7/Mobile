@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">83a537a2db28fb40be72fa6e0f96191c</icon>
+        <name>Related List</name>
+        <order>30</order>
+        <parent>158307aadb6cff00e4f07b6e0f961906</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>swnewton</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2583c3aadb6cff00e4f07b6e0f9619dc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_2583c3aadb6cff00e4f07b6e0f9619dc</sys_update_name>
+        <sys_updated_by>swnewton</sys_updated_by>
+        <sys_updated_on>2019-04-04 23:36:53</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_related_lists_screen>
+</record_update>

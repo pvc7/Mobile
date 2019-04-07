@@ -5,7 +5,7 @@
         <data_item display_value="Scan Asset">228e51e7db4877c0e4f07b6e0f9619ea</data_item>
         <description>Scan an asset and perform actions</description>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
+        <hidden>true</hidden>
         <icon display_value="clipboard">05ef556bdb4877c0e4f07b6e0f9619a7</icon>
         <name>Scan Assets</name>
         <order>10</order>
@@ -14,17 +14,17 @@
         <roles_override/>
         <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
         <sys_created_by>jruss</sys_created_by>
-        <sys_created_on/>
+        <sys_created_on>2019-04-02 20:30:59</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>59ef556bdb4877c0e4f07b6e0f9619c8</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Scan Assets</sys_name>
         <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
         <sys_update_name>sys_sg_master_detail_screen_59ef556bdb4877c0e4f07b6e0f9619c8</sys_update_name>
-        <sys_updated_by>jruss</sys_updated_by>
-        <sys_updated_on>2019-03-13 18:59:51</sys_updated_on>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-04-05 00:57:49</sys_updated_on>
     </sys_sg_master_detail_screen>
 </record_update>

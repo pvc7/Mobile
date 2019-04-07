@@ -2,7 +2,7 @@
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
         <application_roles/>
         <available_offline>false</available_offline>
-        <data_item display_value="My Requests">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
+        <data_item display_value="Requests by Group_Test">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
         <description/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
@@ -15,7 +15,7 @@
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>c4266</sys_created_by>
-        <sys_created_on/>
+        <sys_created_on>2019-04-02 20:30:58</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f4fef0afdb4477c0e4f07b6e0f96191a</sys_id>
         <sys_mod_count>2</sys_mod_count>

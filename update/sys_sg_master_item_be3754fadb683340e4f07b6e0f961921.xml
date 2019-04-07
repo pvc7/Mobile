@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="My Group's Catalog Tasks item view">be3754fadb683340e4f07b6e0f96190c</item_view>
+        <name>Master Item</name>
+        <screen display_value="My Group's Catalog Tasks">b23714fadb683340e4f07b6e0f9619f5</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>c4266</sys_created_by>
+        <sys_created_on>2019-04-05 02:03:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>be3754fadb683340e4f07b6e0f961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_master_item_be3754fadb683340e4f07b6e0f961921</sys_update_name>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-04-05 02:03:30</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Find a form or browse the catalog list...</description>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="folder-open">63373d13db647740e4f07b6e0f9619df</icon>
+        <name>Requesting Somthing</name>
+        <order>20</order>
+        <parent>54f4f51fdb247740e4f07b6e0f961981</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <relative_url>true</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>c4266</sys_created_by>
+        <sys_created_on>2019-04-06 22:21:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7f3735d7db247740e4f07b6e0f9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requesting Somthing</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_7f3735d7db247740e4f07b6e0f9619cc</sys_update_name>
+        <sys_updated_by>c4266</sys_updated_by>
+        <sys_updated_on>2019-04-06 22:21:49</sys_updated_on>
+        <url>sp?id=sc_category</url>
+    </sys_sg_browser_screen>
+</record_update>

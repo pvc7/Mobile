@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Add Comments (Incident)</name>
+        <query_condition table="incident">sys_idSTARTSWITH{{Add_Comment_Incident_Sys_Id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Add_Comment_Incident_Sys_Id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>swnewton</sys_created_by>
+        <sys_created_on>2019-04-05 14:32:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1b620b76db607f40be72fa6e0f96195f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Add Comments (Incident)</sys_name>
+        <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1b620b76db607f40be72fa6e0f96195f</sys_update_name>
+        <sys_updated_by>swnewton</sys_updated_by>
+        <sys_updated_on>2019-04-05 19:25:35</sys_updated_on>
+        <table>incident</table>
+        <template>comments={{Add_Comment_Incident_Additional_Comments}}^work_notes={{Add_Comment_Incident_Worknote}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

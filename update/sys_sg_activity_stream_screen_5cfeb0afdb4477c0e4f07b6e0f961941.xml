@@ -5,7 +5,7 @@
         <add_work_note_button>true</add_work_note_button>
         <application_roles/>
         <available_offline>false</available_offline>
-        <data_item display_value="My Requests">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
+        <data_item display_value="Requests by Group_Test">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
         <description/>
         <fetch_type>background</fetch_type>
         <hidden>false</hidden>
@@ -17,7 +17,7 @@
         <roles_override/>
         <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
         <sys_created_by>c4266</sys_created_by>
-        <sys_created_on/>
+        <sys_created_on>2019-04-02 20:30:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5cfeb0afdb4477c0e4f07b6e0f961941</sys_id>
         <sys_mod_count>6</sys_mod_count>
