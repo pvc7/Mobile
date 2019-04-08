@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Add Comments (INC)">e75b63f6db247f40be72fa6e0f961977</button>
-        <button_parent_table>incident</button_parent_table>
+        <button display_value="Edit Request">4ce68affdb647b40e4f07b6e0f961949</button>
+        <button_parent_table>sc_request</button_parent_table>
         <carried>false</carried>
         <constant/>
         <default_value/>
-        <default_value_type>none</default_value_type>
+        <default_value_type>source_field</default_value_type>
         <field_name/>
         <input_source>auto</input_source>
         <input_style>inline</input_style>
         <input_type>source_field</input_type>
         <mandatory>false</mandatory>
         <multi_select>false</multi_select>
-        <name>Add_Comment_Incident_Sys_Id</name>
+        <name>Edit_Request_Sys_Id</name>
         <order/>
         <parameter_type>button</parameter_type>
         <placeholder/>
@@ -21,18 +21,18 @@
         <source_field>sys_id</source_field>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>
         <sys_created_by>swnewton</sys_created_by>
-        <sys_created_on>2019-04-05 17:51:01</sys_created_on>
+        <sys_created_on>2019-04-08 12:47:18</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>3a4fe33edb247f40be72fa6e0f9619ac</sys_id>
+        <sys_id>ef270233dba47b40e4f07b6e0f961914</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Add_Comment_Incident_Sys_Id</sys_name>
+        <sys_name>Edit_Request_Sys_Id</sys_name>
         <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
-        <sys_update_name>sys_sg_ui_parameter_3a4fe33edb247f40be72fa6e0f9619ac</sys_update_name>
+        <sys_update_name>sys_sg_ui_parameter_ef270233dba47b40e4f07b6e0f961914</sys_update_name>
         <sys_updated_by>swnewton</sys_updated_by>
-        <sys_updated_on>2019-04-05 17:51:01</sys_updated_on>
+        <sys_updated_on>2019-04-08 12:47:18</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
 </record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Add Comments">e75b63f6db247f40be72fa6e0f961977</button>
+        <button display_value="Add Comments (INC)">e75b63f6db247f40be72fa6e0f961977</button>
         <item_parameter display_value="Add_Comment_Incident_Sys_Id">03faebb6db247f40be72fa6e0f961916</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>swnewton</sys_created_by>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Add Comments">e75b63f6db247f40be72fa6e0f961977</button>
+        <button display_value="Add Comments (INC)">e75b63f6db247f40be72fa6e0f961977</button>
         <description/>
         <field_name/>
         <label>Add Comments</label>

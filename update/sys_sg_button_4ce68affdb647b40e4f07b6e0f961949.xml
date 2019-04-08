@@ -3,7 +3,7 @@
         <allow_images_upload>false</allow_images_upload>
         <auto_redirection>false</auto_redirection>
         <cancel_label/>
-        <condition table="incident">state!=7^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="7"/>
+        <condition table="sc_request">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script/>
@@ -22,7 +22,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Add Comments (INC)</name>
+        <name>Edit Request</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
@@ -34,21 +34,21 @@
         <success_message/>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>swnewton</sys_created_by>
-        <sys_created_on>2019-04-05 17:30:54</sys_created_on>
+        <sys_created_on>2019-04-08 12:46:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e75b63f6db247f40be72fa6e0f961977</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Add Comments (INC)</sys_name>
+        <sys_id>4ce68affdb647b40e4f07b6e0f961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Request</sys_name>
         <sys_package display_value="DevMobile" source="x_hepa_devmobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevMobile">94d5ecefdb8077c0e4f07b6e0f9619d4</sys_scope>
-        <sys_update_name>sys_sg_button_e75b63f6db247f40be72fa6e0f961977</sys_update_name>
+        <sys_update_name>sys_sg_button_4ce68affdb647b40e4f07b6e0f961949</sys_update_name>
         <sys_updated_by>swnewton</sys_updated_by>
-        <sys_updated_on>2019-04-08 13:12:45</sys_updated_on>
-        <table>incident</table>
+        <sys_updated_on>2019-04-08 12:46:12</sys_updated_on>
+        <table>sc_request</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Add Comments (Incident)">1b620b76db607f40be72fa6e0f96195f</write_back_action_item>
+        <write_back_action_item display_value="Edit Request">c1954e3fdb647b40e4f07b6e0f9619a0</write_back_action_item>
     </sys_sg_button>
 </record_update>

@@ -47,6 +47,6 @@
         <table/>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="ReAssign">18947cafdb0477c0e4f07b6e0f961923</write_back_action_item>
+        <write_back_action_item display_value="Reassign (CT)">18947cafdb0477c0e4f07b6e0f961923</write_back_action_item>
     </sys_sg_button>
 </record_update>
