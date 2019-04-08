@@ -5,7 +5,7 @@
         <add_work_note_button>true</add_work_note_button>
         <application_roles/>
         <available_offline>false</available_offline>
-        <data_item display_value="Requests by Group_Test">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
+        <data_item display_value="My Requests">230ebc2fdb4477c0e4f07b6e0f9619bb</data_item>
         <description/>
         <fetch_type>background</fetch_type>
         <hidden>false</hidden>
